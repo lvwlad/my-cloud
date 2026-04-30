@@ -1,3 +1,4 @@
+```txt
 my-cloud/
 ├── docker-compose.yml
 │
@@ -25,4 +26,6 @@ my-cloud/
     └── js/
         ├── api.js                 
         ├── login.js                
-        └── files.js                
+        └── files.js  
+```
+              
